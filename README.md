@@ -1,8 +1,5 @@
-# FedPCOS-XAI
 
-Code for the manuscript "FedPCOS-XAI: a reliability-audited federated CNN benchmark for PCOS ultrasound classification" (Frontiers in Digital Health, manuscript 1980374).
-
-## Data
+# Data
 Figshare PCOS ultrasound archive: https://figshare.com/articles/dataset/PCOS_Dataset/27682557
 Expected layout: `PCOS_figshare_ds/PCOS/infected` and `PCOS_figshare_ds/PCOS/noninfected`.
 The file inventory (`file_inventory.csv`, SHA-256 exact-duplicate status) and the split manifests with checksums are supplied in the review package.
